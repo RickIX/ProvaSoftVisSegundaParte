@@ -1,0 +1,24 @@
+nav {
+    margin: 0;
+    padding: 0;
+  }
+  
+  ol {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    text-align: left;
+    
+  }
+  
+  li {
+    margin-right: 20px; /* ou qualquer outra margem desejada para espaçamento entre os itens */
+  }
+  
+  a {
+    text-decoration: none;
+    color: black; /* ou a cor desejada para os links */
+    font-size: large;
+  }
+  
+  
